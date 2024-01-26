@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vinyl Collection Catalog", "Vinyl Collection Catalog\Vinyl Collection Catalog.csproj", "{01024AAA-D923-4DD5-BD92-6CB66F164060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01024AAA-D923-4DD5-BD92-6CB66F164060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01024AAA-D923-4DD5-BD92-6CB66F164060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01024AAA-D923-4DD5-BD92-6CB66F164060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01024AAA-D923-4DD5-BD92-6CB66F164060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E560A8C-77D8-4888-809C-2DCB4DE9B41B}
+	EndGlobalSection
+EndGlobal

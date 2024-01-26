@@ -1,0 +1,15 @@
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Debug\net6.0\Vinyl Collection Catalog.exe
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Debug\net6.0\Vinyl Collection Catalog.deps.json
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Debug\net6.0\Vinyl Collection Catalog.runtimeconfig.json
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Debug\net6.0\Vinyl Collection Catalog.dll
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Debug\net6.0\Vinyl Collection Catalog.pdb
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.csproj.AssemblyReference.cache
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.AssemblyInfoInputs.cache
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.AssemblyInfo.cs
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.csproj.CoreCompileInputs.cache
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.dll
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\refint\Vinyl Collection Catalog.dll
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.pdb
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\Vinyl Collection Catalog.genruntimeconfig.cache
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\obj\Debug\net6.0\ref\Vinyl Collection Catalog.dll

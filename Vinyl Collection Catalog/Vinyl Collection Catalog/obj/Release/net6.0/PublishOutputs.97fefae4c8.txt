@@ -1,0 +1,5 @@
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Release\net6.0\publish\Vinyl Collection Catalog.exe
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Release\net6.0\publish\Vinyl Collection Catalog.dll
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Release\net6.0\publish\Vinyl Collection Catalog.deps.json
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Release\net6.0\publish\Vinyl Collection Catalog.runtimeconfig.json
+C:\Users\seano\source\repos\Vinyl Collection Catalog\Vinyl Collection Catalog\bin\Release\net6.0\publish\Vinyl Collection Catalog.pdb
